@@ -1,0 +1,22 @@
+{
+  "name": "carrer-ninja",
+  "version": "1.0.0",
+  "description": "node services for career ninja login application",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rajdavid/node-carrer-ninja.git"
+  },
+  "author": "David",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rajdavid/node-carrer-ninja/issues"
+  },
+  "homepage": "https://github.com/rajdavid/node-carrer-ninja#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
