@@ -6,6 +6,5 @@ mongoose.connect('mongodb+srv://wolfsbane:wolfsbane123@collegecluster.4tic5.mong
     console.log("Database connected")
 })  
 .catch((err) => {
-    console.log(err.message)
-  
+    console.log(err.message) 
 })

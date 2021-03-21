@@ -1,7 +1,6 @@
 import mongoose from "mongoose";
 import uniqueValidtor from "mongoose-unique-validator";
 const schema = mongoose.Schema;
-
 const UserSchema = new schema({
   name: {
     type: String,
